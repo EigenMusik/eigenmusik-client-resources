@@ -4,11 +4,11 @@
   "LOGOUT": "Logout",
   "REGISTER": "Register",
   "ADD_NEW_SOURCE": "Add a new source.",
-  "SOURCES": "Sources"
+  "SOURCES": "Sources",
   "LOADING_TRACKS": "Loading tracks...",
   "TRACK": "TRACK",
   "ARTIST": "ARTIST",
   "TIME": "TIME",
   "ALBUM": "ALBUM",
-  "ADDED": "ADDED",
+  "ADDED": "ADDED"
 }

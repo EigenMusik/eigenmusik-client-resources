@@ -3,5 +3,7 @@
   "USERNAME": "Username",
   "PASSWORD": "Password",
   "PASSWORD_AGAIN": "Password (again)",
-  "EMAIL": "Email"
+  "EMAIL": "Email",
+  "USERNAME_EXISTS" : "Username already taken",
+  "EMAIL_EXISTS" : "Email address already taken"
 }
